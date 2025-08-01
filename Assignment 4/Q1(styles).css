@@ -1,0 +1,10 @@
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    border: 5px solid #264653;
+    border-radius: 10px;
+    display: block;
+    margin: 20px 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
